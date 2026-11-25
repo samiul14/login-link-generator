@@ -1,0 +1,5 @@
+# Python Standard Libraries Only (No external pip packages required)
+# Built-in modules used:
+# - http.server
+# - socketserver
+# - urllib.parse
