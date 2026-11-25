@@ -28,5 +28,5 @@ This project is created **strictly for educational, learning, and web developmen
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/samiul14/login-link-generator.git](https://github.com/samiul14/login-link-generator.git)
+   git clone https://github.com/samiul14/login-link-generator.git
    cd login-link-generator
